@@ -220,6 +220,11 @@ VIDEO_TXT ="""𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾�
 <code>/mp4 https://youtu.be/example...</code>
 <code>/video https://youtu.be/example...</code>"""
 
+TTS_TXT = """Help: <b> TTS 🎤 module:</b>
+Translate text to speech
+<b>Commands and Usage:</b>
+• /tts <text> : convert text to speech"""
+
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
 IMDb Data:
